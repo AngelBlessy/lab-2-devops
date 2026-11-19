@@ -4,5 +4,5 @@ def add(a, b):
 def greet(name):
     return f"Hello, {name}!"
 
-print(greet("Developer"))
+print(greet("Welcome to CI"))
 print(add(10, 20))
